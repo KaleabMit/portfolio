@@ -168,3 +168,7 @@ border: 1px solid rgba(255, 255, 255, 0.35);
     color: black;
     border-color: #00ffb3;
 }
+.card-img-top:hover {
+  transform: scale(1.05);
+}
+
